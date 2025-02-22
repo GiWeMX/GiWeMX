@@ -1,16 +1,45 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**GiWeMX/GiWeMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Python/Django разработчик**, стремлюсь к уровню Senior в течение 3 лет. Люблю Linux, работаю в Arch с оконным менеджером Hyprland. Развиваюсь в backend-разработке, активно использую Docker и Celery.
 
-Here are some ideas to get you started:
+## 🔥 О себе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Разрабатываю на **Python** (Django, DRF)
+- 🛠 Опыт работы с **Docker, Redis, Celery**
+- 📡 Настраиваю и деплою проекты на **Railway, Timeweb**
+- ⚡ Интересуюсь оптимизацией бэкенда и асинхронными задачами
+- 🏗 Использую **Pydantic** для валидации данных
+- 📜 Разрабатывал импорт товаров из CSV в Django через Celery
+- 🎯 Работал над **реальным коммерческим проектом**
+- 🎓 Прошел 9-месячный курс по backend-разработке в **My Academy** (январь 2024 — ноябрь 2024)
+- 🏢 Стажировался в **My Academy**, работая над коммерческими проектами
+
+## 🚀 Опыт работы
+
+### Стажировка в My Academy
+
+- Разработка и поддержка Django-проекта
+- Интеграция **Celery, Redis** для асинхронных задач
+- Контейнеризация проекта с **Docker и Docker Compose**
+- Деплой на **Railway, Timeweb**
+- Настройка **CI/CD** для автоматизации развертывания
+- Работа с **MySQL, PostgreSQL**
+- Использование **AJAX** для динамического обновления интерфейсов
+
+## ⚡ Технологии
+
+- **Языки**: Python
+- **Фреймворки**: Django, Django REST Framework
+- **Базы данных**: PostgreSQL, MySQL, SQLite
+- **Инструменты**: Docker, Docker Compose, Redis, Celery, Pydantic, CI/CD, Git, REST API
+- **Деплой**: Railway, Timeweb
+- **Фронтенд**: AJAX
+
+## 📫 Связаться со мной
+
+- Телефон: +79025323369, +996550208884
+- Telegram  t.me/Cirebi
+- Email: kaper001100@gmail.com
+
+Буду рад новым проектам и возможностям! 🚀
+
